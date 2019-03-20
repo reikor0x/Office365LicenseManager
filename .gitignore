@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Office365_AssignLicenses_Console/bin/Debug/Output/Action_Export.csv
+/Office365_AssignLicenses_Console/bin/Debug/Output/Trace.log
+/Office365_AssignLicenses_Console/bin/Debug/Output/Simple_Report.csv
+/PRIVATENOTES.txt
+/Office365_AssignLicenses_Console/Config/config.json
+/Office365_AssignLicenses_Console/Config/usersdefinition.json
+/Office365_AssignLicenses_Console/Config/profilesdefinition.json
+/Office365_AssignLicenses_Console/bin/Debug
+/Office365_AssignLicenses_Console/bin/Release
+/Office365_AssignLicenses_Console/obj/Release
+/Office365_AssignLicenses_Console/obj/Debug
+/.vs
+/Office365_AssignLicenses_Console/Properties
+/packages

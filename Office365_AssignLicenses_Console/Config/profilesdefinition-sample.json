@@ -1,0 +1,23 @@
+[
+  {
+    "ProfileName": "Profilo1",
+    "LicenceType": "OFFICE 365 ENTERPRISE E5",
+    "enabledservices": "exchange;sharepoint"
+  },
+  {
+    "ProfileName": "Profilo2",
+    "LicenceType": "OFFICE 365 ENTERPRISE E5",
+    "enabledservices": "exchange"
+  },
+
+  {
+    "ProfileName": "Profilo3",
+    "LicenceType": "OFFICE 365 ENTERPRISE E3",
+    "enabledservices": "ALL"
+  },
+  {
+    "ProfileName": "Profilo4",
+    "LicenceType": "Microsoft E5",
+    "enabledservices": "Sharepoint"
+  }
+]

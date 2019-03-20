@@ -1,0 +1,12 @@
+{
+
+  "ExportSimpleReportAtEveryRun": true,
+  "ExportActions": true,
+  "LogOnlyMode": false,
+  "ClientIdForUserAuthn": "<Insert Client ID Here>",
+  "Tenant": "<Insert you tenant here, example contoso.onmicrosoft.com>",
+  "username": "<Insert your username here admin@contoso.com>",
+  "password": "<Insert your password here>",
+  "DefaultUsageLocation": "IT"
+
+}

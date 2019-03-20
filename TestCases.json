@@ -1,0 +1,24 @@
+{
+  "Build": "2018.12.22-01",
+  "BuildName": "Caserta",
+  "Tests": [
+    {
+      "TestID": "NEW01",
+      "TestName": "Assign a license for a new user",
+      "TestDescription": "Create a new user without any licence assigned, assign a profile to the user in the userdefinition.json. After running the tool the new user has the license and services defined in the profile.",
+      "Status": "PASSED"
+    },
+    {
+      "TestID": "REG01",
+      "ProfileName": "No changes for previous defined users",
+      "TestDescription": "After tool execution the licence assigned for user defined in userdefinition.json has not changed.",
+      "Status": "PASSED"
+    },
+    {
+      "TestID": "CNG01",
+      "ProfileName": "Profile change for previous defined users",
+      "TestDescription": "Change a profile definition in profilesdefinition.json file. After tool execution all the users defined in userdefinition.json with the changed profile will change license and/or services assigned.",
+      "Status": "PASSED"
+    }
+  ]
+}
