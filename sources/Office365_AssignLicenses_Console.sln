@@ -13,9 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestCases", "TestCases", "{
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Binaries", "Binaries", "{139E4518-FAB3-4FC2-AF9B-3C8A61F4CCF9}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Desktop\Office365LicenseManager.Beta1.zip = ..\..\..\Desktop\Office365LicenseManager.Beta1.zip
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConsoleApp", "ConsoleApp", "{AD24290C-FBA7-439F-810A-EC92C8395766}"
 	ProjectSection(SolutionItems) = preProject
